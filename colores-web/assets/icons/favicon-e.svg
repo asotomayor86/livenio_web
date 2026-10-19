@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Livenio Capital">
+  <title>Livenio Capital</title>
+  <!-- PROVISIONAL (decisión del propietario, 2026-10-13): solo favicon / icono de aplicación; nunca icono de interfaz (se confunde con el menú). -->
+  <!-- Baldosa azul marino (#00203F, esquinas rectas) + las tres barras de la «E» copiadas verbatim de assets/logo/logo-dark.svg (relleno #cd9049). -->
+  <rect width="64" height="64" fill="#00203f"/>
+  <svg width="64" height="64" viewBox="384.5 9.4 170 170">
+    <path fill="#cd9049" d="M432.83 46.89h73.44v14.22h-73.44ZM432.83 87.64h73.44v14.22h-73.44ZM432.83 127.81h73.44v14.22h-73.44Z"/>
+  </svg>
+</svg>
